@@ -5,19 +5,10 @@
  */
 package projectjava;
 
-import java.util.Scanner;
-
 /**
  *
  * @author 54117
  */
-public class ProjectJava {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in).useDelimiter("\n");
-    }
+public class Paloma {
     
 }
