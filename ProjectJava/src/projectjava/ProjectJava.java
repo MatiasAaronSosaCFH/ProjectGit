@@ -13,11 +13,13 @@ import java.util.Scanner;
  */
 public class ProjectJava {
 
+
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in).useDelimiter("\n");
+
     }
     
 }
